@@ -1,11 +1,11 @@
 # Header
 menu:
   主页: /
-  前端挖掘: /fedev
-  iOS爱好: /iosdev
-  android兴趣: /androidev
-  cocos2dx研究: /cocos2dx
-  unity3d趋势: /unity3d
+  前端挖掘: /categories/fedev/
+  iOS爱好: /categories/iosdev/
+  android兴趣: /categories/androidev/
+  cocos2dx研究: /categories/cocos2dx/
+  unity3d趋势: /categories/unity3d/
   # 随笔: /tags/随笔
 
 # SubNav
@@ -25,7 +25,7 @@ excerpt_link: more
 fancybox: true
 
 # Miscellaneous
-google_analytics: ''
+google_analytics: '<script src="http://s4.cnzz.com/z_stat.php?id=1254117900&web_id=1254117900" language="JavaScript"></script>'
 favicon: /favicon.png
 
 #你的头像
