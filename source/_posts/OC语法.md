@@ -53,5 +53,5 @@ tags: ios obj-c
 ```
 
 ###备注一些iOS开发中的奇巧淫技
-(iOS开发的一些奇巧淫技)[http://www.cocoachina.com/ios/20141231/10783.html]
-(iOS开发的一些奇巧淫技2)[http://www.cocoachina.com/ios/20150210/11130.html]
+[iOS开发的一些奇巧淫技](http://www.cocoachina.com/ios/20141231/10783.html)
+[iOS开发的一些奇巧淫技2](http://www.cocoachina.com/ios/20150210/11130.html)
