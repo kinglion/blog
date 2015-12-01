@@ -57,6 +57,7 @@ var total = [0, 1, 2, 3].reduce(function(a, b) {
 // total == 6
 ```
 
+
 ```
 //数组扁平化
 var flattened = [[0, 1], [2, 3], [4, 5]].reduce(function(a, b) {
@@ -71,5 +72,6 @@ var flattened = [[0, 1], [2, 3], [4, 5]].reduce(function(a, b) {
 return strategies.reduce((conf, strategy) => {
     return strategy(conf, options);
   }, config);
-//这里strategies是一个数组，成员是由多个方法组成，config是webpack的配置参数，object类型，定义了一堆配置变量供webpack调用。因为reduce如果给定第二个参数，那么遍历第一轮的时候会把第二个参数默认设置为previousValue，当前数组中第一个变量设置为currentValue，之后的遍历循环，把config层层传递下去，最后通过多重方法加工后输出最终的config，这种巧妙的使用方法，对于结构化，组件化很有帮助。
+//这里strategies是一个数组，成员是由多个方法组成，config是webpack的配置参数，object类型，定义了一堆配置变量供webpack调用。
+//因为reduce如果给定第二个参数，那么遍历第一轮的时候会把第二个参数默认设置为previousValue，当前数组中第一个变量设置为currentValue，之后的遍历循环，把config层层传递下去，最后通过多重方法加工后输出最终的config，这种巧妙的使用方法，对于结构化，组件化很有帮助。
 ```
