@@ -44,7 +44,10 @@ tagcloud: true
 #friends: false
 #开启——
 friends:
-  个人github: https://blog.lncoder.com
+  个人github: http://github.com/kinglion
+  ChrisCheung: http://daddybh.github.io
+  lisarao: http://lisarao.github.io/blog
+  blackie4: http://kuscript.com
 
 #是否开启“关于我”。
 #不开启——
