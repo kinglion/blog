@@ -4,7 +4,7 @@
 
  - 林宋才/男/1990 
  - 专科/广东轻工职业技术学院计算机系 
- - 工作年限：3年
+ - 工作年限：4年
  - 技术博客：http://blog.lncoder.com
  - Github: http://github.com/kinglion
 
@@ -34,6 +34,8 @@
 
 ### PP助手转盘类抽奖活动
 采用React做类todolist的前端开发，优化频繁需要对dom操作造成重新渲染页面消耗资源。
+
+### 
 
 ---
 
