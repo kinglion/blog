@@ -41,8 +41,9 @@ cocos2ds-x 游戏引擎实现
 对weex的另一种使用方式，从整屏weex到局部weex的渲染一种挑战。
 
 ### UC小说后台管理系统
-Mysql + Egg + Typescript + React + rematch(redux优化)
-可视化配置页面，实现模型到单一组件的生成，再由单组件集合组成页面，支持拖拽排序。
+- `技术架构:` Mysql + Egg + Typescript + React + rematch(redux优化)
+- `功能:` 可视化配置页面，实现模型到单一组件的生成，再由单组件集合组成页面，支持拖拽排序。
+
 
 ## 广州智在创熠信息科技有限公司 （ 2012年9月 ~ 2014年9月 ）
 
