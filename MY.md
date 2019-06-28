@@ -43,7 +43,7 @@ cocos2ds-x 游戏引擎实现
 ### UC用户中心项目
 对weex的另一种使用方式，从整屏weex到局部weex的渲染一种挑战。
 
-### [UC小说后台管理系统]
+### UC小说后台管理系统
 Mysql + Egg + Typescript + React + rematch(redux优化)
 可视化配置页面，实现模型到单一组件的生成，再由单组件集合组成页面，支持拖拽排序。
 
