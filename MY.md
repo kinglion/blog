@@ -4,8 +4,7 @@
 
  - 林宋才/男/1990 
  - 专科/广东轻工职业技术学院计算机系 
- - 工作年限：6年
- - 技术博客：http://blog.lncoder.com (许久没更新)
+ - 工作年限：8年
  - Github: http://github.com/kinglion
 
  - 目前职位：高级前端工程师
